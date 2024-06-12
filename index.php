@@ -15,7 +15,7 @@
       trigger_error("SOAP Fault: (faultcode: {$fault->faultcode}, faultstring: {$fault->faultstring})", E_USER_ERROR);
   }
 		?>
-		  <p>testae</p>
+		  <p>teste</p>
       <hr>
 		<?php 
 		echo '<pre>';
